@@ -5,7 +5,7 @@ export default {
     },
     autoStart: false,
     instance: {
-      dbName: 'cdp-node-backend-template'
+      dbName: 'ai-techspick-jira-api'
     }
   },
   mongoURLEnvName: 'MONGO_URI',
